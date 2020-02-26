@@ -20,7 +20,7 @@ description: Here's some work
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme.md"
+  About Me: "aboutme"
   Resources:
     - Resource1: "resourceurl"
     - resource2: "resourceurl"
