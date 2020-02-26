@@ -13,4 +13,4 @@ Put more stuff here
 
 ### Some of my interests
 
-Streetwear/Fashion, Sports/Gambling, Food/Manufacturing, Retail, Sustainablilty & more
+Streetwear/Fashion, Sports/Gambling, Food/Manufacturing, Retail, Sustainability & more
