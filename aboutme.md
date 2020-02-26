@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: A little background
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Griffin Wilson, education is as follows:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- San Diego State University 2015-19 Economics
+- Lambda School Data Science Student
 
-What else do you need?
+Put more stuff here
 
-### my history
+### Some of my interests
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Streetwear/Fashion, Sports/Gambling, Food/Manufacturing, Retail, Sustainablilty & more
