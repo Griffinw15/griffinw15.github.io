@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: A little background
+subtitle: A brief background
 ---
 
 My name is Griffin Wilson, education is as follows:
@@ -9,8 +9,8 @@ My name is Griffin Wilson, education is as follows:
 - San Diego State University 2015-19 Economics
 - Lambda School Data Science Student
 
-Put more stuff here
+I'm interested in EDA, and predictions/recommendations
 
-### Some of my interests
+### Interests
 
-Streetwear/Fashion, Sports/Gambling, Food/Manufacturing, Retail, Sustainability & more
+Streetwear/Fashion, Sports/Gambling, Food&Bev/Manufacturing, Retail, Sustainability and much more!
