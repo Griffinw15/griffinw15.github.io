@@ -9,7 +9,7 @@ My name is Griffin Wilson, education is as follows:
 - San Diego State University 2015-19 Economics
 - Lambda School Data Science Student
 
-I'm interested in EDA, and predictions/recommendations
+I'm like to work on EDA, and predictions/recommendations
 
 ### Interests
 
